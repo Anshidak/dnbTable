@@ -90,3 +90,6 @@ Cancel Button Functionality:
 
 When a "Cancel" button is clicked, this function either removes the row if it's a newly added row (no data-id attribute), or it reverts the changes made to the row by hiding editable elements and showing non-editable elements.
 Overall, this JavaScript code provides interactivity to the duty schedule list web page, allowing users to add, edit, and delete rows dynamically while ensuring data validation and integrity.
+
+
+for installation download the code , extract it into wamp use the mysql query saved in code in phpmyadmin(change your db name and table name accordingly) and run it.
